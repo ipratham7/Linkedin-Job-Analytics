@@ -25,23 +25,23 @@ Visualization: Create visualizations using Excel to present the analyzed data in
 # Dashboard and Visualization
 The project includes a dashboard created in Excel to present the analyzed data. The dashboard consists of the following interactive charts and visualizations:
 
-1.City-wise Job Distribution (Bar Chart): This chart displays the number of job opportunities in different cities. Users can compare the job availability across cities in a visually engaging bar chart.
+## 1. City-wise Job Distribution (Bar Chart): This chart displays the number of job opportunities in different cities. Users can compare the job availability across cities in a visually engaging bar chart.
 
 ![image](https://github.com/ipratham7/Linkedin-Job-Analytics/assets/64377030/bc276595-2db8-4411-ac02-a876b1e4361e)
 
-2.Job Distribution Across Industries (Bar Chart): This chart showcases the distribution of job opportunities across various industries. Users can identify the sectors with the highest number of vacancies through the intuitive bar chart visualization.
+## 2. Job Distribution Across Industries (Bar Chart): This chart showcases the distribution of job opportunities across various industries. Users can identify the sectors with the highest number of vacancies through the intuitive bar chart visualization.
 
 ![image](https://github.com/ipratham7/Linkedin-Job-Analytics/assets/64377030/7124849f-f084-49ff-aebf-547a4fc652b2)
 
-3.Major States Contributing to Jobs (Map Chart - India): This map chart provides a visual representation of the major states contributing to job opportunities in India. Users can quickly identify the states with the most significant job market activity based on the color-coded map.
+3. Major States Contributing to Jobs (Map Chart - India): This map chart provides a visual representation of the major states contributing to job opportunities in India. Users can quickly identify the states with the most significant job market activity based on the color-coded map.
 
 ![image](https://github.com/ipratham7/Linkedin-Job-Analytics/assets/64377030/15c922a7-439f-4b5f-b485-2d0b36c3bd9e)
 
-4.Number of Jobs Across Sectors/Locations (Bar Chart): This bar chart displays the number of job openings across different sectors or locations. Users can analyze and compare the job availability in various sectors or locations using this interactive visualization.
+4. Number of Jobs Across Sectors/Locations (Bar Chart): This bar chart displays the number of job openings across different sectors or locations. Users can analyze and compare the job availability in various sectors or locations using this interactive visualization.
 
 ![image](https://github.com/ipratham7/Linkedin-Job-Analytics/assets/64377030/eb5c1c0e-7629-4fb7-940d-4bbef1064350)
 
-5.Number of Followers vs. Vacancies (Line Chart): This line chart demonstrates the relationship between the number of social media followers of companies and the number of job vacancies they offer. Users can identify any potential correlation or patterns between social media influence and job opportunities through this chart.
+5. Number of Followers vs. Vacancies (Line Chart): This line chart demonstrates the relationship between the number of social media followers of companies and the number of job vacancies they offer. Users can identify any potential correlation or patterns between social media influence and job opportunities through this chart.
 
 ![image](https://github.com/ipratham7/Linkedin-Job-Analytics/assets/64377030/caf19d94-0c5f-486b-86c2-cf4098b85292)
 
