@@ -1,5 +1,8 @@
 # Linkedin-Job-Analytics
 LinkedIn Job Analytics is a data-driven project that provides real-time insights into job availability, sectors, and geographical distribution based on LinkedIn data, empowering users with valuable information for the Indian job market.
+
+![jawlwdfd](https://github.com/ipratham7/Linkedin-Job-Analytics/assets/64377030/eb2e3afa-477b-4bb0-9117-5d01b81c2f7f)
+
 # Project Description
 The LinkedIn Job Analytics project aims to provide insights into the job market in India by collecting data from LinkedIn job postings. The project involves the following steps:
 
