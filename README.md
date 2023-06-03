@@ -25,11 +25,11 @@ Visualization: Create visualizations using Excel to present the analyzed data in
 # Dashboard and Visualization
 The project includes a dashboard created in Excel to present the analyzed data. The dashboard consists of the following interactive charts and visualizations:
 
-## 1. City-wise Job Distribution (Bar Chart): This chart displays the number of job opportunities in different cities. Users can compare the job availability across cities in a visually engaging bar chart.
+1. City-wise Job Distribution (Bar Chart): This chart displays the number of job opportunities in different cities. Users can compare the job availability across cities in a visually engaging bar chart.
 
 ![image](https://github.com/ipratham7/Linkedin-Job-Analytics/assets/64377030/bc276595-2db8-4411-ac02-a876b1e4361e)
 
-## 2. Job Distribution Across Industries (Bar Chart): This chart showcases the distribution of job opportunities across various industries. Users can identify the sectors with the highest number of vacancies through the intuitive bar chart visualization.
+2. Job Distribution Across Industries (Bar Chart): This chart showcases the distribution of job opportunities across various industries. Users can identify the sectors with the highest number of vacancies through the intuitive bar chart visualization.
 
 ![image](https://github.com/ipratham7/Linkedin-Job-Analytics/assets/64377030/7124849f-f084-49ff-aebf-547a4fc652b2)
 
